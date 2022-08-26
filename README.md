@@ -23,6 +23,7 @@ My first TPS attempt on making TPS game
 - Collimation offset
 - The camera will move outside the wall
 - Animation mutation causes a sudden change in perspective when moving left or right
+- The gun model is finished and will be displayed on the map, but because the painting style does not match I used two brand new weapons
 
 
 This is my first attempt at making a TPS game or even using the UE engine, following the introductory tutorial to complete a shooter demo that can attack the AI, but there are still huge problems with the online aspect, unfortunately leaving me not enough time to make it, and the quality of the tutorial is not very high, but I have found a better tutorial, and I will make a more satisfying TPS demo when I have the chance.
