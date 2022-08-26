@@ -13,6 +13,7 @@ My first TPS attempt on making TPS game
 - AI dead
 - Pick up weapons on the ground
 - Changing weapons("1","2")(can only be used after picking up a weapon)
+- Pickable ammunition
 
 ## Current Problems：
 - No jump animation
